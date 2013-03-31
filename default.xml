@@ -7,4 +7,6 @@
         sync-j="4" />
 
 
+    <project name="repo_test_bla1" />
+
 </manifest>
